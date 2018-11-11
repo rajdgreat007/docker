@@ -1,3 +1,8 @@
+## Build and run with docker
+
+docker build -f Dockerfile.dev .  
+docker run -p 3000:3000 ID
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
